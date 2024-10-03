@@ -43,5 +43,24 @@ public class Hibernate {
         System.out.println("Java 15 is the best");
         System.out.println("Java 15 is the best");
         System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Java 15 is the best");
+        System.out.println("Babakhan bayke");
+        System.out.println("Baisalbek");
     }
 }

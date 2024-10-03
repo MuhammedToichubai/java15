@@ -14,53 +14,24 @@ public class Hibernate {
         System.out.println("Java 15 is the best");
         System.out.println("Java 15 is the best");
         System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Java 15 is the best");
-        System.out.println("Babakhan bayke");
-        System.out.println("Baisalbek");
+
     }
+
+    public static void getById(){
+
+    };
+
+    public static void save(){
+
+    };
+
+    public static void update(){
+
+    };
+
+    public static void delete(){
+
+    };
+
+
 }
